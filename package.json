@@ -1,0 +1,9 @@
+{
+  "name": "use-debounce-search",
+  "version": "0.0.1",
+  "description": "A small React hook for doing debounce search",
+  "main": "index.js",
+  "author": "Philip Andreas Kingo",
+  "license": "MIT",
+  "private": false
+}
